@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog.reith77.tk/sitemap.xml
