@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reith77.github.io/techbits/sitemap.xml
